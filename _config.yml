@@ -1,9 +1,4 @@
 theme: jekyll-theme-merlot
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+timezone: Africa/Nairobi
+title: "my awesome site: an adventure in parse errors"
